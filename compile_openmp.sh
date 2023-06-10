@@ -1,0 +1,1 @@
+g++ -o3 -fopenmp common_func.cpp kmeans_openmp.cpp -o kmeans_mp -std=c++11

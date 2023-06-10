@@ -1,0 +1,1 @@
+nvcc common_func.cpp kmeans_cuda.cu -o kmeans_cuda -std=c++11
